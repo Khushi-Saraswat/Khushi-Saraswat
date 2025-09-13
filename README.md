@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since I learned the language of 0s and 1s <br>
-📚 I'm currently learning Spring AI <br>
+📚 I'm currently learning Microserviice Architecture and Spring Ai <br>
 🎯 Goals: To become a skilled backend developer and build scalable products <br>
 🎲 Fun fact: I debug better with chai ☕
 </p>
