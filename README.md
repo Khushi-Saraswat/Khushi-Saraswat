@@ -52,6 +52,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
 
+  <!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+<img width="12" />
+
   <!-- Axios (custom icon as devicon doesn't have one) -->
   <img src="https://axios-http.com/assets/logo.svg" height="40" alt="Axios logo" />
 </div>
